@@ -1,2 +1,2 @@
-<？的PHP
-phpinfo（）；
+<   1 HP11
+phpin
